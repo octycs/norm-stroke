@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+  <advance width="560"/>
+  <unicode hex="0024"/>
+  <outline>
+    <contour>
+      <point x="440" y="640" type="move" smooth="yes"/>
+      <point x="378.513" y="665.619"/>
+      <point x="310.722" y="680"/>
+      <point x="240" y="680" type="curve" smooth="yes"/>
+      <point x="173.77" y="680"/>
+      <point x="120" y="626.23"/>
+      <point x="120" y="560" type="curve" smooth="yes"/>
+      <point x="120" y="515.028"/>
+      <point x="144.664" y="475.877"/>
+      <point x="181.315" y="455.329" type="curve" smooth="yes"/>
+      <point x="181.443" y="455.253"/>
+      <point x="378.685" y="344.671"/>
+      <point x="378.685" y="344.671" type="curve" smooth="yes"/>
+      <point x="415.336" y="324.123"/>
+      <point x="440.128" y="284.896"/>
+      <point x="440.128" y="239.924" type="curve" smooth="yes"/>
+      <point x="440.128" y="173.694"/>
+      <point x="386.23" y="120"/>
+      <point x="320" y="120" type="curve" smooth="yes"/>
+      <point x="249.312" y="120.108"/>
+      <point x="181.526" y="134.475"/>
+      <point x="120" y="160" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="280" y="40" type="move"/>
+      <point x="280" y="760" type="line"/>
+    </contour>
+  </outline>
+</glyph>

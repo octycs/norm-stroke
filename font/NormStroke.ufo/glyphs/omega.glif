@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omega" format="2">
+  <advance width="800"/>
+  <unicode hex="03C9"/>
+  <outline>
+    <contour>
+      <point x="180" y="520" type="move" smooth="yes"/>
+      <point x="141.478" y="420.886"/>
+      <point x="120" y="312.663"/>
+      <point x="120" y="200" type="curve" smooth="yes"/>
+      <point x="120" y="111.694"/>
+      <point x="191.694" y="40"/>
+      <point x="280" y="40" type="curve" smooth="yes"/>
+      <point x="346.23" y="40"/>
+      <point x="400" y="93.7702"/>
+      <point x="400" y="160" type="curve" smooth="yes"/>
+      <point x="400" y="280" type="line"/>
+      <point x="400" y="160" type="line" smooth="yes"/>
+      <point x="400" y="93.7702"/>
+      <point x="453.77" y="40"/>
+      <point x="520" y="40" type="curve" smooth="yes"/>
+      <point x="608.306" y="40"/>
+      <point x="680" y="111.694"/>
+      <point x="680" y="200" type="curve" smooth="yes"/>
+      <point x="680" y="312.663"/>
+      <point x="658.522" y="420.886"/>
+      <point x="620" y="520" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

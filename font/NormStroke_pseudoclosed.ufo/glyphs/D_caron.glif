@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="640"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="120" y="40" type="move"/>
+      <point x="120" y="760" type="line"/>
+      <point x="360" y="760" type="line" smooth="yes"/>
+      <point x="448.306" y="760"/>
+      <point x="520" y="688.306"/>
+      <point x="520" y="600" type="curve" smooth="yes"/>
+      <point x="520" y="200" type="line" smooth="yes"/>
+      <point x="520" y="111.694"/>
+      <point x="448.306" y="40"/>
+      <point x="360" y="40" type="curve" smooth="yes"/>
+      <point x="121" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="1080" type="move"/>
+      <point x="320" y="960" type="line"/>
+      <point x="440" y="1080" type="line"/>
+    </contour>
+  </outline>
+</glyph>

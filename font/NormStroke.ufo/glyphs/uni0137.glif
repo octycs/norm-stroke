@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0137" format="2">
+  <advance width="600"/>
+  <unicode hex="0137"/>
+  <outline>
+    <contour>
+      <point x="160" y="760" type="move"/>
+      <point x="160" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="280" type="move"/>
+      <point x="480" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="40" type="move"/>
+      <point x="312" y="359.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="40" type="move"/>
+      <point x="120" y="-120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

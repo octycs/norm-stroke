@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Phi" format="2">
+  <advance width="800"/>
+  <unicode hex="03A6"/>
+  <outline>
+    <contour>
+      <point x="240" y="40" type="move"/>
+      <point x="400" y="40" type="line"/>
+      <point x="400" y="760" type="line"/>
+      <point x="560" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="160" type="move" smooth="yes"/>
+      <point x="227.54" y="160"/>
+      <point x="120" y="267.54"/>
+      <point x="120" y="400" type="curve" smooth="yes"/>
+      <point x="120" y="532.46"/>
+      <point x="227.54" y="640"/>
+      <point x="360" y="640" type="curve" smooth="yes"/>
+      <point x="440" y="640" type="line" smooth="yes"/>
+      <point x="572.46" y="640"/>
+      <point x="680" y="532.46"/>
+      <point x="680" y="400" type="curve" smooth="yes"/>
+      <point x="680" y="267.54"/>
+      <point x="572.46" y="160"/>
+      <point x="440" y="160" type="curve" smooth="yes"/>
+      <point x="361" y="160" type="line"/>
+    </contour>
+  </outline>
+</glyph>

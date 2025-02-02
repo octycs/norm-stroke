@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="theta" format="2">
+  <advance width="760"/>
+  <unicode hex="03B8"/>
+  <outline>
+    <contour>
+      <point x="120" y="280" type="move"/>
+      <point x="160" y="280" type="line" smooth="yes"/>
+      <point x="204.153" y="280"/>
+      <point x="240" y="244.153"/>
+      <point x="240" y="200" type="curve" smooth="yes"/>
+      <point x="240" y="111.694"/>
+      <point x="311.694" y="40"/>
+      <point x="400" y="40" type="curve" smooth="yes"/>
+      <point x="488.306" y="40"/>
+      <point x="560" y="111.694"/>
+      <point x="560" y="200" type="curve" smooth="yes"/>
+      <point x="560" y="620" type="line" smooth="yes"/>
+      <point x="560" y="697.268"/>
+      <point x="497.268" y="760"/>
+      <point x="420" y="760" type="curve" smooth="yes"/>
+      <point x="342.732" y="760"/>
+      <point x="280" y="697.268"/>
+      <point x="280" y="620" type="curve" smooth="yes"/>
+      <point x="280" y="542.732"/>
+      <point x="342.732" y="480"/>
+      <point x="420" y="480" type="curve" smooth="yes"/>
+      <point x="640" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

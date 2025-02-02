@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+  <advance width="320"/>
+  <unicode hex="005B"/>
+  <outline>
+    <contour>
+      <point x="200" y="-40" type="move"/>
+      <point x="120" y="-40" type="line"/>
+      <point x="120" y="840" type="line"/>
+      <point x="200" y="840" type="line"/>
+    </contour>
+  </outline>
+</glyph>

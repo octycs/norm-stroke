@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="2">
+  <advance width="600"/>
+  <unicode hex="0395"/>
+  <outline>
+    <contour>
+      <point x="480" y="40" type="move"/>
+      <point x="120" y="40" type="line"/>
+      <point x="120" y="760" type="line"/>
+      <point x="480" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="400" type="move"/>
+      <point x="400" y="400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -3,6 +3,8 @@ This single-stroke font is derived from [this SVG on Wikimedia Commons](https://
 All characters were automatically extracted from this SVG and converted into an SVG font that can be used for example with the [Hershey-Text](https://wiki.evilmadscientist.com/Hershey_Text)
 plugin for [Inkscape](https://inkscape.org/).
 
+There are also versions available that are converted into TrueType, OpenType and UFO using [FontForge](https://fontforge.org/). For TrueType/OpenType, contours are always closed. These files are therefore slightly modified ("pseudoclosed"), so that the endpoints of intentionally closed contours are minimally shifted apart. This way they can be used in software that allows to remove closing segments while still appearing visually closed when used with a finite stroke width.
+
 Included are all a total of 323 characters plus space. The following characters from the above SVG are not part of this first version, as I couldn't find the corresponding Unicode codepoints or they can only be represented using combining diacritic marks:
 
 ![excluded chars](excluded.png)

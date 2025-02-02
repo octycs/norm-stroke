@@ -1,0 +1,42 @@
+
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\space \asterisk \Alpha \Lambda \Mu \Nu \Xi \Omicron \Pi \Rho \Sigma 
+	\Tau \Upsilon \Beta \Phi \Chi \Psi \uni03A9 \alpha \beta \gamma \delta \epsilon 
+	\zeta \Gamma \eta \theta \iota \kappa \lambda \uni03BC \nu \xi \omicron \pi \uni0394 
+	\rho \sigma \tau \upsilon \phi \chi \psi \omega \Epsilon \Zeta \Eta \Theta \Iota 
+	\Kappa \A \AE \B \C \Cacute \Ccircumflex \Ccaron \Cdotaccent \Ccedilla \D \Dcaron 
+	\Agrave \Eth \E \Egrave \Eacute \Ecircumflex \Edieresis \Ecaron \Emacron 
+	\Edotaccent \uni0228 \Aacute \F \G \Gcircumflex \Gbreve \Gdotaccent \uni0122 \H 
+	\Hcircumflex \Hbar \I \Acircumflex \Igrave \Iacute \Icircumflex \Itilde 
+	\Idieresis \uni01CF \Imacron \Idotaccent \Atilde \Adieresis \Aring \Abreve 
+	\Amacron \Aogonek \Iogonek \N \Nacute \Ntilde \Ncaron \uni0145 \O \Ograve \Oacute 
+	\Ocircumflex \Otilde \J \Odieresis \Ohungarumlaut \Omacron \Oslash \P \Q \R 
+	\Racute \Rcaron \uni0156 \Jcircumflex \S \Sacute \Scircumflex \Scaron \Scedilla 
+	\T \Tcaron \uni0162 \uni023E \U \K \Ugrave \Uacute \Ucircumflex \Utilde \Udieresis 
+	\Uring \Uhungarumlaut \Ubreve \uni0136 \L \Lacute \Lcaron \uni013B \M \Umacron 
+	\Zcaron \Zdotaccent \a \agrave \aacute \acircumflex \atilde \adieresis \aring 
+	\abreve \amacron \ae \b \c \cacute \ccircumflex \ccaron \ccedilla \d \dcaron 
+	\Uogonek \eth \e \egrave \eacute \ecircumflex \edieresis \ecaron \edotaccent 
+	\uni0229 \f \V \g \gcircumflex \gbreve \gdotaccent \h \hcircumflex \hbar \i \W \X \Y 
+	\Yacute \Z \Zacute \igrave \l \lacute \lcaron \uni013C \lslash \m \n \nacute \ntilde 
+	\ncaron \iacute \uni0146 \eng \o \ograve \oacute \ocircumflex \otilde \odieresis 
+	\ohungarumlaut \omacron \icircumflex \oslash \ordmasculine \oe \p \thorn \q \r 
+	\racute \rcaron \uni0157 \itilde \s \scircumflex \scaron \scedilla \t \tcaron 
+	\uni0163 \uni2C66 \idieresis \imacron \iogonek \j \k \uni0137 \u \v \w \x \y \yacute 
+	\z \germandbls \zero \one \ugrave \two \three \four \five \six \seven \eight \nine 
+	\plus \uacute \hyphen \multiply \slash \plusminus \equal \equivalence \divide 
+	\less \greater \lessequal \utilde \greaterequal \guillemotleft \guillemotright 
+	\parenleft \parenright \bracketleft \bracketright \braceleft \udieresis \uring 
+	\uhungarumlaut \umacron \uogonek \braceright \quotedbl \comma \semicolon 
+	\period \colon \backslash \underscore \summation \integral \uni2221 \percent 
+	\uni22B3 \uni22B2 \notequal \numbersign \uni2259 \H22073 \emptyset \dollar 
+	\infinity \cent \sterling \yen \peseta \at \copyright \registered \uni2104 
+	\uni21B7 \radical \uni22C2 \approxequal \asciitilde \exclam \question 
+	\ampersand \quotesingle ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+

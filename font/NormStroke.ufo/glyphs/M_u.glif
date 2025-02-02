@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="2">
+  <advance width="720"/>
+  <unicode hex="039C"/>
+  <outline>
+    <contour>
+      <point x="120" y="40" type="move"/>
+      <point x="120" y="760" type="line"/>
+      <point x="360" y="360" type="line"/>
+      <point x="600" y="760" type="line"/>
+      <point x="600" y="40" type="line"/>
+    </contour>
+  </outline>
+</glyph>

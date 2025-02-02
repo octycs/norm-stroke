@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="2">
+  <advance width="560"/>
+  <unicode hex="0128"/>
+  <outline>
+    <contour>
+      <point x="280" y="40" type="move"/>
+      <point x="280" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="1040" type="move"/>
+      <point x="152" y="1064" type="line" smooth="yes"/>
+      <point x="165.363" y="1074.02"/>
+      <point x="181.96" y="1079.96"/>
+      <point x="199.933" y="1079.96" type="curve" smooth="yes"/>
+      <point x="217.906" y="1079.96"/>
+      <point x="234.637" y="1074.02"/>
+      <point x="248" y="1064" type="curve"/>
+      <point x="247.866" y="1064"/>
+      <point x="312" y="1016"/>
+      <point x="312" y="1016" type="curve" smooth="yes"/>
+      <point x="325.363" y="1005.98"/>
+      <point x="341.96" y="1000.04"/>
+      <point x="359.933" y="1000.04" type="curve" smooth="yes"/>
+      <point x="377.906" y="1000.04"/>
+      <point x="394.637" y="1005.98"/>
+      <point x="408" y="1016" type="curve"/>
+      <point x="407.866" y="1016"/>
+      <point x="440" y="1040"/>
+      <point x="440" y="1040" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

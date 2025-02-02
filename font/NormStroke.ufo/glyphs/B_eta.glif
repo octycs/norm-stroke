@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Beta" format="2">
+  <advance width="640"/>
+  <unicode hex="0392"/>
+  <outline>
+    <contour>
+      <point x="120" y="40" type="move"/>
+      <point x="120" y="760" type="line"/>
+      <point x="300" y="760" type="line" smooth="yes"/>
+      <point x="399.345" y="760"/>
+      <point x="480" y="679.345"/>
+      <point x="480" y="580" type="curve" smooth="yes"/>
+      <point x="480" y="480.655"/>
+      <point x="399.345" y="400"/>
+      <point x="300" y="400" type="curve" smooth="yes"/>
+      <point x="120" y="400" type="line"/>
+      <point x="340" y="400" type="line" smooth="yes"/>
+      <point x="439.345" y="400"/>
+      <point x="520" y="319.345"/>
+      <point x="520" y="220" type="curve" smooth="yes"/>
+      <point x="520" y="120.655"/>
+      <point x="439.345" y="40"/>
+      <point x="340" y="40" type="curve" smooth="yes"/>
+      <point x="120" y="40" type="line"/>
+    </contour>
+  </outline>
+</glyph>
