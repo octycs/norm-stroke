@@ -1,5 +1,5 @@
 # NormStroke
-![preview](preview.png)
+<img src="preview.png" />
 
 This single-stroke font is derived from [this SVG on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISO3098.svg) with ISO 3098 Type B Lettering.
 All characters were automatically extracted from this SVG and converted into an SVG font that can be used for example with the [Hershey-Text](https://wiki.evilmadscientist.com/Hershey_Text)
@@ -9,7 +9,7 @@ There are also versions available that are converted into TrueType, OpenType and
 
 Included are all a total of 323 characters plus space. The following characters from the above SVG are not part of this first version, as I couldn't find the corresponding Unicode codepoints or they can only be represented using combining diacritic marks:
 
-![excluded chars](excluded.png)
+<img src="excluded.png" width="250px" />
 
 The digit `7` uses the style with a dash. Additionally added is a design for the asterisk `*` to support the complete printable ASCII set.
 
